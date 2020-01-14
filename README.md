@@ -1,2 +1,0 @@
-# FasterChef
-Msc Project code
